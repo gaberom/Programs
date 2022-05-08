@@ -110,7 +110,7 @@ public class WebServer
 		
 	} // end main
 	
-	<project name="Gabriel Romero's Build File" default="dist" basedir=".">
+	<project name="test" default="dist" basedir=".">
 	  <description>
 	    simple example build file
 	  </description>
